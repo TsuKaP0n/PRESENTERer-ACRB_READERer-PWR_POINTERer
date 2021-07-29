@@ -13,3 +13,12 @@ PDFファイルやパワーポイントのファイルを使ってプレゼン�
 - なんとなくChromeも操作できたり。
 
 など雑多な機能もつけてみました。
+
+We have developed a wireless controller for presenting using PDF files and PowerPoint files for the purpose of realizing it with the microcomputer M5Stack Basic.
+
+- When operating Acrobat Reader, it automatically displays in full screen and switches not only "previous page" and "next page" but also multiple open PDF files with the touch of a button.
+- When operating PowerPoint, there is also a question-and-answer function that allows you to display any page without returning to the edit screen during or after sliding.
+- For both PDF and PowerPoint files, digital signage-like display that automatically displays and switches between specified pages at equal time intervals is displayed.
+- You can display videos and still images registered in the launcher during the presentation so that you can easily follow the slides.
+- A stopwatch that can transfer the lap time to spreadsheet software in addition to the count-up timer from power-on.
+- etc.
