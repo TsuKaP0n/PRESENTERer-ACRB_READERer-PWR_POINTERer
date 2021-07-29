@@ -1,2 +1,2 @@
-# presenterer
-M5Stack Basic Application. Remote presenter for PDF files and PowerPoint files. 
+# PRESENTERer
+Application for M5Stack Basic. Remote controller for presentation with PDF files or PowerPoint files. 
