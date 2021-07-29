@@ -1,7 +1,7 @@
 # PRESENTERer ( ACRB_READERer / PWR_POINTERer )
 Application for M5Stack Basic. Remote controller for presentation with PDF files or PowerPoint files. 
 
-See https://tsukamo.to/m5stack/prsnterer/index.html (sorry, in Japanese.)
+See https://tsukamo.to/m5stack/prsnterer/index.html. (sorry, in Japanese.)
 
 PDFファイルやパワーポイントのファイルを使ってプレゼンする際 マイコンM5Stack Basicを，Bluetoothを介したコントローラーとして利用する目的で開発しました。
 
