@@ -45,7 +45,11 @@ void btnName(int md) {
     }
     switch(btnMssIndex[idx_m]) {
     case _FIRST_MENU:
-      mss2 = !switchBtnMode100C ? "  PDF FILE(S)?" : "  POWERPOINT FILE?";
+      if(_APP_NAME_NUM == 0) {
+        mss2 = !switchBtnMode100C ? "  PDF FILE(S)?" : "  POWERPOINT FILE?";
+      }else {
+        mss2 = switchBtnMode100C ? "  PDF FILE(S)?" : "  POWERPOINT FILE?";
+      }
       break;
     case 48:
       mss2 += repeatingItvName[repeatingItvIndex];
@@ -62,7 +66,11 @@ void btnName(int md) {
       a_tx = "next";      a_pos = 40;
       b_tx = appMenu_str[0][0];
       b_pos = appMenu_pos[0][0];
-      c_tx = !switchBtnMode100C ? appMenu_str[0][1] : appMenu_str[0][3];
+      if(!_APP_NAME_NUM) {
+        c_tx = !switchBtnMode100C ? appMenu_str[0][1] : appMenu_str[0][3];
+      }else {
+        c_tx = switchBtnMode100C ? appMenu_str[0][1] : appMenu_str[0][3];
+      }
       c_pos = appMenu_pos[0][1];
       B_tx = appMenu_str[0][2];
       C_tx = !switchBtnMode100C ? appMenu_str[0][3] : appMenu_str[0][1];
