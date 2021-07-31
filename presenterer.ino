@@ -244,5 +244,5 @@ void loop() {
     a_pressed_long = false;
     c_pressed_long = false;
   }
-  delay(3);
+  delay(4);
 }
