@@ -1,5 +1,12 @@
 # PRESENTERer ( ACRB_READERer / PWR_POINTERer )
-Application for M5Stack Basic. Remote controller for presentation with PDF files or PowerPoint files. 
+We have developed a wireless controller for presentations using PDF files and PowerPoint files with the microcomputer M5Stack Basic.
+
+- When operating Acrobat Reader, you can automatically display it in full screen mode and switch not only between "previous page" and "next page" but also between multiple open PDF files with a single button.
+- When operating PowerPoint, you can view any page during or after a slide without returning to the editing screen.
+- Digital signage-like display that automatically displays and switches between specified pages at equal time intervals in both PDF and PowerPoint files.
+- During a presentation, you can display videos and still images registered in the launcher so that you can easily go back to the slides.
+- A stopwatch that can count up from power-on and transfer lap times to spreadsheet software.
+- It can also somehow control Chrome.
 
 See https://tsukamo.to/m5stack/prsnterer/index.html . (sorry, in Japanese.)
 
@@ -14,11 +21,3 @@ PDFファイルやパワーポイントのファイルを使ってプレゼン�
 
 など雑多な機能もつけてみました。
 
-We have developed a wireless controller for presenting using PDF files and PowerPoint files for the purpose of realizing it with the microcomputer M5Stack Basic.
-
-- When operating Acrobat Reader, it automatically displays in full screen and switches not only "previous page" and "next page" but also multiple open PDF files with the touch of a button.
-- When operating PowerPoint, there is also a question-and-answer function that allows you to display any page without returning to the edit screen during or after sliding.
-- For both PDF and PowerPoint files, digital signage-like display that automatically displays and switches between specified pages at equal time intervals is displayed.
-- You can display videos and still images registered in the launcher during the presentation so that you can easily follow the slides.
-- A stopwatch that can transfer the lap time to spreadsheet software in addition to the count-up timer from power-on.
-- etc.
