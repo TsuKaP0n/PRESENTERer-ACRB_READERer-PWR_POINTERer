@@ -27,7 +27,7 @@
  * 
  * 
  *      Arduino IDE settings
- *        tool -> board manager -> esp32 : version 1.0.6
+ *        tool -> board manager -> esp32 : version 1.0.4 !!!
  *        tool -> board: ESP32 Arduino -> M5Stack-Fire
  *        tool -> Partition Scheme: Default
  *   
