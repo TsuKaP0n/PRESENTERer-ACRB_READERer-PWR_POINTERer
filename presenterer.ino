@@ -61,7 +61,7 @@
 #include "prr_btnName.h"
 
 #define _APP_NAME_NUM   1   // 0: ACRB_READERer  1: PWR_POINTERer
-#define _APP_VER      "1.4.2"
+#define _APP_VER      "1.4.2c"
 #define _BLE_NAME     "PRSNTERer 1.4.2"
 
 #define _FIRST_MENU 239
