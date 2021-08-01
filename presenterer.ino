@@ -28,8 +28,7 @@
  * 
  *      Arduino IDE settings
  *        tool -> board manager -> esp32 : version 1.0.4 !!!
- *        tool -> board: ESP32 Arduino -> M5Stack-Fire
- *        tool -> Partition Scheme: Default
+ *        tool -> board: ESP32 Arduino -> M5Stack-Fire or M5Stack-Core-ESP32
  *   
  *   
  *      Orchis Launcher の設定
@@ -50,7 +49,7 @@
  *            "sleep": 0
  *                    
  *  version
- *  1.4.2  2021/08/01 - eneble to use esp32 virsion 1.0.5 or later
+ *  1.4.2  2021/08/01 - 
  *  1.4.1  2021/07/30 - bugfixed
  *  1.4.0  2021/07/28 - 
  *  
