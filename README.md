@@ -21,3 +21,4 @@ PDFファイルやパワーポイントのファイルを使ってプレゼン�
 
 など雑多な機能もつけてみました。
 
+lovyan03氏( https://github.com/lovyan03 ) 作 LavyanLauncher ( https://github.com/lovyan03/M5Stack_LovyanLauncher ) に対応しています。
