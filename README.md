@@ -23,4 +23,4 @@ PDFファイルやパワーポイントのファイルを使ってプレゼン�
 使用説明は https://tsukamo.to/m5stack/prsnterer/index.html をご覧ください。
 
 ***
-  - ACRB_READERer / PWR_POINTERer は [lovyan03](https://github.com/lovyan03)氏作 [LavyanLauncher](https://github.com/lovyan03/M5Stack_LovyanLauncher) に対応しています。
+ACRB_READERer / PWR_POINTERer は [lovyan03](https://github.com/lovyan03)氏作 [LavyanLauncher](https://github.com/lovyan03/M5Stack_LovyanLauncher) に対応しています。
