@@ -27,8 +27,10 @@
  * 
  * 
  *      Arduino IDE settings
- *        tool -> board manager -> esp32 : version 1.0.4 !!!
- *        tool -> board: ESP32 Arduino -> M5Stack-Fire (Do not use 'M5Stack-Core-ESP32')
+ *        Board Manager: esp32 by Espressif Systems
+ *        https://dl.espressif.com/dl/package_esp32_index.json
+ *        version 2.0.2
+ *        tool -> board -> ESP32 Arduino -> M5Stack-Core-ESP32
  *   
  *   
  *      Orchis Launcher の設定
@@ -60,7 +62,7 @@
 #include <BleKeyboard.h>
 #include "prr_btnName.h"
 
-#define _APP_NAME_NUM   1   // 0: ACRB_READERer  1: PWR_POINTERer
+#define _APP_NAME_NUM   0   // 0: ACRB_READERer  1: PWR_POINTERer
 #define _APP_VER      "1.4.2c"
 #define _BLE_NAME     "PRSNTERer 1.4.2"
 
@@ -243,5 +245,5 @@ void loop() {
     a_pressed_long = false;
     c_pressed_long = false;
   }
-  delay(5);
+  delay(10);
 }
