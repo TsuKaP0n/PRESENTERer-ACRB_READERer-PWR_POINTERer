@@ -27,10 +27,11 @@
  * 
  * 
  *      Arduino IDE settings
- *        Board Manager: esp32 by Espressif Systems
+ *      Board Manager:
+ *        esp32 by Espressif Systems
  *        https://dl.espressif.com/dl/package_esp32_index.json
- *        version 2.0.2
- *        tool -> board -> ESP32 Arduino -> M5Stack-Core-ESP32
+ *        version 1.0.4
+ *        tool -> board -> ESP32 Arduino -> M5Stack-Fire (NOT M5Stack-Core-ESP32 !!)
  *   
  *   
  *      Orchis Launcher の設定
